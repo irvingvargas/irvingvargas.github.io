@@ -7,7 +7,8 @@ Lawyer
 
 Interest in
 - Data decision making
-- Energy
-- Labour
-- Local governments
-- Education
+- Energy for economic growth
+- Elections
+- Labour in digital economy
+- Local government policies
+- EdTech
