@@ -1,9 +1,7 @@
 # irvingvargas.github.io
-Projects and public profile
 
-Msc Public Policy
-Economics student
 Lawyer
+Msc Public Policy
 
 Interest in
 - Data decision making
